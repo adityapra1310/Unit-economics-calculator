@@ -184,7 +184,7 @@ Each cell displays the resulting LTV:CAC ratio, colour-coded by health threshold
 
 ## 📄 License
 
-MIT — free to use, modify, and distribute with attribution.
+Free to use, modify, and distribute with attribution.
 
 ---
 
